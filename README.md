@@ -9,6 +9,8 @@ NeoBundle 'kauzminn/StopTime.vim'
 
 
 #using
+<pre>
 :StopTime
+</pre>
 
 #自己責任で
