@@ -8,3 +8,7 @@ NeoBundle 'kauzminn/StopTime.vim'
 </pre>
 
 
+#using
+:StopTime
+
+#自己責任で
